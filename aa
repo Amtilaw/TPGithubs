@@ -1,0 +1,44 @@
+[33mcommit 256be9008741981ed98ad7104089cbebad95e66d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Amtilaw <adrien34690@gmail.com>
+Date:   Thu Dec 10 09:34:49 2020 +0100
+
+    newCommit
+
+[33mcommit 18eab5b34986a307a29ce29f9d5083ccc32c8b7f[m[33m ([m[1;31mtpGit/master[m[33m)[m
+Merge: 3d7e477 9c7c480
+Author: Amtilaw <adrien34690@gmail.com>
+Date:   Thu Dec 10 09:32:05 2020 +0100
+
+    Merge branch 'master' of https://github.com/Amtilaw/TPGithubs
+
+[33mcommit 3d7e477d980927437766d3fcb1f2a42573745100[m
+Author: Amtilaw <adrien34690@gmail.com>
+Date:   Thu Dec 10 09:31:58 2020 +0100
+
+    new
+
+[33mcommit f0d37bd16c265bf2da86d3f8eb06203bd82f8d98[m
+Author: Amtilaw <adrien34690@gmail.com>
+Date:   Thu Dec 10 09:23:09 2020 +0100
+
+    modifDoc
+
+[33mcommit 9c7c480b9d5234b88a19c7497d523594900b3fbb[m
+Author: Amtilaw <37652534+Amtilaw@users.noreply.github.com>
+Date:   Thu Dec 10 09:17:29 2020 +0100
+
+    Create Readme.md & modification
+
+[33mcommit c4dcf152bf0660cca7dce404b0c6a862ef6d6fbb[m
+Author: Amtilaw <37652534+Amtilaw@users.noreply.github.com>
+Date:   Thu Dec 10 09:16:56 2020 +0100
+
+    Add files via upload
+    
+    commit github
+
+[33mcommit e0569beb129b9173207ea0bdd92f30191c1359df[m[33m ([m[1;31mtpGit/feat/git_is_awesome[m[33m, [m[1;32mfeat/git_is_awesome[m[33m)[m
+Author: Amtilaw <adrien34690@gmail.com>
+Date:   Thu Dec 10 09:13:21 2020 +0100
+
+    Commit initial
